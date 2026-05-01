@@ -1,0 +1,17 @@
+{
+  "name": "BillEasy POS",
+  "short_name": "BillEasy",
+  "description": "Smart Billing for Indian Businesses",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F6FA",
+  "theme_color": "#FF5200",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
